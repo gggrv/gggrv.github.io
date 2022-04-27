@@ -49,7 +49,7 @@ Add chord notation support.
 
 This section contains structured and detailed information about all currently existing tabs and midis, as well as links to the resulting files.
 
-All midis can be found [here](https://mega.nz/folder/iQFmQLaS), key `eJ_137-bzpV12phCpb-OuA`. <br>
-All tabs can be found [here](https://mega.nz/folder/HJ1SmYbA), key `Q_3tcEAuqbXE_fzghRFHDw`.
+All midis can be found [here](https://mega.nz/folder/iQFmQLaS "MEGA shared folder"), key `eJ_137-bzpV12phCpb-OuA`. <br>
+All tabs can be found [here](https://mega.nz/folder/HJ1SmYbA "MEGA shared folder"), key `Q_3tcEAuqbXE_fzghRFHDw`.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrLdL6zu4qZSTog1?backgroundColor=grayLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
