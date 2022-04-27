@@ -52,4 +52,10 @@ This section contains structured and detailed information about all currently ex
 All midis can be found [here](https://mega.nz/folder/iQFmQLaS "MEGA shared folder"), key `eJ_137-bzpV12phCpb-OuA`. <br>
 All tabs can be found [here](https://mega.nz/folder/HJ1SmYbA "MEGA shared folder"), key `Q_3tcEAuqbXE_fzghRFHDw`.
 
+### Verbose view
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrXKzjknDbOnM2xQ?backgroundColor=grayLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+### Kanban view
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrLdL6zu4qZSTog1?backgroundColor=grayLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
