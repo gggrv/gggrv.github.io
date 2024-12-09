@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[DEV INFO] wristsaver"
+title: "[DEV INFO] Wristsaver"
 date: 2022-05-17
 categories: [something]
-tags: [airtable, writing, machine learning, python, pyqt5]
+tags: [handwriting, machine learning, python, qt, cv2]
 ---
 
-Generate handwritten text.
+Generate handwritten text
 
 <!--more-->
 
@@ -16,26 +16,30 @@ Generate handwritten text.
 
 ### Benefits
 
-Create custom handwritten type and print simple `html`-formatted documents with it.
+- Create custom handwritten type and print documents with it.
+- Apply custom hand wavering, misalign straight lines of text for more natural feel.
+- Define derivative types for **bold**, *italic* and other styles.
+- Define entire typesets for easy switching and document formatting.
+- Easily label handwriting data, train machine learning algorithms on this labeled data.
 
-Apply custom hand wavering, misalign straight lines of text for more natural feel.
+This is a logical clone of the `UTAU` program — any labeling techniques (for example `CV`, `VCV`, `CVC`, `bre`) are possible to implement. Translated to handwriting, that could be `single letter`, `some syllable`, `whole word`, `whole phrase`, `ligature`.
 
-Define derivative types for **bold**, *italic* and other styles.
+### Comparison Table
 
-Define entire typesets for easy switching and document formatting.
-
-Easily label handwriting data, train machine learning algorithms on this labeled data.
-
-This is a logical clone of the `UTAU` program — any labeling techniques (for example `CV`, `VCV`, `CVC`, `bre`) are possible to implement (translated to handwriting, that could be `single letter`, `some syllable`, `whole word`, `whole phrase`, `ligature`).
+| Q | Wristsaver v5.5 | Wristsaver Append |
+| --- | --- | --- |
+| Exists? | ✔️ Development completed in 2020 | ❄️ Development paused |
+| Usable? | ✔️ | ❌ |
+| Documentation, screenshots, video demos? | ✔️ | ❌ |
+| GitHub repository | [Click to open](https://github.com/gggrv/edu_archive_wristsaver_v5.5) | [Click to open](https://github.com/gggrv/wristsaver_append) |
+| Has GUI? | Only for metadata editor, haphazard | Full |
+| What documents can it print? | Simple `html`+`css` | 🤔 |
+| What labeling techniques are supported? | <ul><li>Standalone `single letter`</li><li>`single letter` that comes only after specific `previous letters`</li><li>`single letter` that has connector to some `previous`/`next`/`both` letters.</li></ul> | <ul><li>Mix-match of unique plaintext `tokens`</li></ul> |
 
 ### Rationale
 
-`wristsaver` is an update of my old code with high sentimental value. After implementing core mechanics in the traditional way, I will switch to the machine learning part.
+In honor of ancient traditions, certain ██████████████ require ██ to produce large amount of handwritten text in abysmally short timespan. Doing so often leads to ██████████, ███████, wrist injuries, damp morale, poor performance. Initially, wristsaver was designed to help alleviate such conditions. The `append` version is a facultative research interest.
 
-### Links
-
-GitHub repository: [click](https://github.com/gggrv/wristsaver).
-
-### Development Status
+### Development Status of the `append` version
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrL3loO2LIA3xI7w?backgroundColor=grayLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

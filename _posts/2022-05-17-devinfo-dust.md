@@ -1,37 +1,39 @@
 ---
 layout: post
-title: "[DEV INFO] dust"
+title: "[DEV INFO] Dust"
 date: 2022-05-17
 categories: [something]
-tags: [airtable, file explorer, python, pyqt5, neo4j]
+tags: [python, qt]
 ---
 
-All we are is dust in the wind.
+Use mouse gestures to run code.
 
 <!--more-->
 
 ### About
 
-`foobar2000`'s `ID3 tag` editor, but not for music.
+Floating pixel that can accept mouse gestures.
 
 ### Benefits
 
-Create custom metadata for *anything*.
+- It looks cute.
+- It may help with productivity.
+- It follows the mouse cursor.
+- Its actions can be customized.
+- Its movement trajectory/logic can be customized.
+- Its appearance can be customized.
 
-Rename/sort any files using that custom metadata.
+### Comparison Table
 
-Write custom plugins and parsers to automatically get some of the metadata.
-
-Do anything else with mouse gestures.
+| Q | "Educational Archive Dust v5" | Dust Append |
+| --- | --- | --- |
+| Exists? | ✔️ Development completed in 2023 | 😴 Development stopped in 2024 |
+| Purpose | Experiment | Nice yet redundant tool |
+| Usable? | ✔️ | n/a |
+| Documentation, screenshots, video demos? | ✔️Documentation<br>✔️Video demos | n/a |
+| GitHub repository | ✔️[Click to open](https://github.com/gggrv/edu_archive_dust_v5) | n/a |
+| GUI? | ✔️PyQt5 | ✔️PyQt6 |
 
 ### Rationale
 
-There are way too many pointless files one needs to manage. Where were they saved? How were they named? What were they for? Write that down into custom metadata, automatically dump associated files to some folder and search for them via private self-hosted logical database rather then physical file system.
-
-### Links
-
-GitHub repository: [click](https://github.com/gggrv/dust).
-
-### Development Status
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr5oaQjgVdPYxQCg?backgroundColor=grayLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+The developer made this application in order to build an understanding of the Qt library usage and capabilities regarding the frameless parentless transparent windows with no system taskbar entry <sup>in other words, completely invisible windows</sup> and QThread creation/termination.
