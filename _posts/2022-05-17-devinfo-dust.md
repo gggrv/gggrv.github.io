@@ -12,7 +12,7 @@ Use mouse gestures to run code.
 
 ### About
 
-Floating pixel that can accept mouse gestures.
+Floating pixel that can accept mouse gestures
 
 ### Benefits
 
