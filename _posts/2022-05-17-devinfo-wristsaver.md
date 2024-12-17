@@ -34,7 +34,7 @@ This is a logical clone of the `UTAU` program — any labeling techniques (for e
 | GitHub repository | [Click to open](https://github.com/gggrv/edu_archive_wristsaver_v5.5) | [Click to open](https://github.com/gggrv/wristsaver_append) |
 | Has GUI? | Only for metadata editor, haphazard | Full |
 | What documents can it print? | Simple `html`+`css` | 🤔 |
-| What labeling techniques are supported? | <ul><li>Standalone `single letter`</li><li>`single letter` that comes only after specific `previous letters`</li><li>`single letter` that has connector to some `previous`/`next`/`both` letters.</li></ul> | <ul><li>Mix-match of unique plaintext `tokens`</li></ul> |
+| What labeling techniques are supported? | ✔️ Standalone `single letter`<br>✔️ `single letter` that comes only after specific `previous letters`<br>✔️ `single letter` that has visible connector to any `previous`/`next`/`both` letter | Mix-match of text `tokens` |
 
 ### Rationale
 
