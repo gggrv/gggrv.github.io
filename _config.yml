@@ -6,8 +6,8 @@
 # Site
 title: не ведая, что творишь
 subtitle: As long as it works
-description:
-author: ''
+description: Personal Portfolio
+author: Anna Anikina
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y.%m.%d'
@@ -212,7 +212,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
-  #LinkLabel: Link
+  GitHub: https://github.com/gggrv
 
 
 # Social Links Icons
