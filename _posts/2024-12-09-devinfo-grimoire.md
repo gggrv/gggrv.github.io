@@ -18,8 +18,8 @@ Create and use own interconnected metadata for anything
 
 - Create custom interconnected metadata for *anything*:
     - Actual folders/files on disk (like an annotated/categorized file explorer, catalog of projects/photos/collections/materials)
-    - Weblinks (like some web browser bookmarks)
-    - Concepts (like a comparative table of some research keywords)
+    - Weblinks (like web browser bookmarks)
+    - Concepts (like a comparative table of research keywords)
     - People (like an address/contact book or social graph)
     - ???
 - Rename/move/copy actual folders/files according to this custom metadata.
@@ -39,12 +39,12 @@ Or save all this into partitioned `.parquet`-like file.
 | Usable? | ✔️ | ✔️ | 🚧 Partially |
 | Documentation, screenshots, video demos? | ✔️Documentation<br>✔️Video demos | Click to preview:<br><img src="/assets/2024-12-09-playlists-menu.png" width="20px" alt="Enhanced context menus, table views" /><img src="/assets/2024-12-09-playlist-contents.png" width="20px" alt='Only one "playlist" can be active at a time' /><img src="/assets/2024-12-09-foo-editor.png" width="20px" alt="Enhanced FooEditor with responsive row selector" /><img src="/assets/2024-12-09-file-renamer-preset-editor.png" width="20px" alt="Enhanced FileRenamer with responsive previews; FooEditor multiple datatype delegate showcase" /><img src="/assets/2024-12-09-file-renamer-context-menu.png" width="20px" alt="Enhanced FileRenamer preset management context menu" /><img src="/assets/2024-12-09-file-renamer-done.png" width="20px" alt="Enhanced FileRenamer GUI with detailed reports" /><img src="/assets/2024-12-09-rel-compare.png" width="20px" alt="Arbitrary relationship editor prototype, compare selected nodes" /><img src="/assets/2024-12-09-rel-one.png" width="20px" alt="Arbitrary relationship editor prototype, explore one node" /><img src="/assets/2024-12-09-rel-compare-menu.png" width="20px" alt="Arbitrary relationship editor prototype, menu with available functions" /> | 🚧 |
 | GitHub repository | ✔️[Click to open](https://github.com/gggrv/edu_archive_dust_v5) | n/a | 🤔Depends on my private framework licensing strategy |
-| GUI? | ✔️ PyQt5<br>➕ Fancy CSS (experimental, user-editable)<br>➖ Overcomplicated<br>➖ Not user-friendly | ✔️ PyQt6<br>➖ Overcomplicated<br>➕ User-friendly | ✔️ PyQt6<br>➕ Simplified</br>➕ User-friendly |
+| GUI? | ✔️ PyQt5<br>➕ Fancy CSS (experimental, user-editable)<br>➖ Overcomplicated<br>➖ Not user-friendly | ✔️ PyQt6<br>➖ Overcomplicated<br>➕ User-friendly | ✔️ PyQt6<br>➕ Simplified<br>➕ User-friendly |
 | User can define own functionality? | ✔️ Overcomplicated `plugins` architecture<br><sub>User can mod default behavior, yet the process is cumbersome</sub> | ❌ | ✔️ Simplified `python API` + `custom GUI` architecture<br><sub>User is expected to define his own GUIs for any behavior, not covered by default widgets; code is organized into strictly managed catalog of namespaces/endpoints</sub> |
 
 #### Graph database features
 
-The app uses the [Neo4J](https://neo4j.com) database. In this section the word "parameters" means "neo4j node or relationship parameters".
+The app uses the [Neo4J](https://neo4j.com) database. In this section the word "parameters" means "neo4j node or relationship properties".
 
 | Q | Demo app "Grimoire" from "Educational Archive Dust v5" | Grimoire Experimental Release | Grimoire |
 | --- | --- | --- | --- |

@@ -3,7 +3,7 @@ layout: post
 title: "[MOD] Audiosurf2"
 date: 2022-05-11
 categories: game
-tags: [audiosurf2, lua]
+tags: [audiosurf2,lua,aftercourse]
 ---
 
 Take normal gameplay and completely break it

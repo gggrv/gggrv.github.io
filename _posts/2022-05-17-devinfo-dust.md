@@ -6,7 +6,7 @@ categories: [something]
 tags: [python, qt]
 ---
 
-Use mouse gestures to run code.
+Use mouse gestures to run code
 
 <!--more-->
 
