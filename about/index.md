@@ -27,10 +27,15 @@ For inquiry, please send an email to the following address: zinc a@t keemail d.o
 
 ## About the Username
 
-*Please note, that in non-work-related activities for privacy reasons I follow the policy of "one improvised straightforward disposable and ideally non-unique username per platform/service". This way I guarantee at least my own compliance with generally recommended Internet etiquette and end up with lots of curious anecdotes to tell, like the one below:*
+*Please note, that in non-work-related activities for privacy reasons I follow the policy of "one improvised straightforward disposable and ideally non-unique username per platform/service". This way I guarantee at least my own compliance with generally recommended Internet etiquette and end up with lots of curious anecdotes to tell, like the one below.*
 
 When it was time to come up with the GitHub username, I accidentally stumbled across this documentary and found the (obviously clickbait) combination of the thumbnail and description to be uncharacteristically funny:
-<br><img src="/assets/about--bbc-cat.png" width="300" alt="Screenshot of the BBC documentary promotion page" ><br><sub>Credit: [BBC](https://www.bbc.co.uk/programmes/p05txr28)</sub><br>
+
+<img src="/assets/about--bbc-cat.png" width="300" alt="Screenshot of the BBC documentary promotion page" >
+
+
+<center><sub>Credit: [BBC](https://www.bbc.co.uk/programmes/p05txr28)</sub></center>
+
 Then I watched it. "Yup, this is exactly what I thought". The rumors are, this cute cat can kill a giraffe! For a modern city dweller, it is easy to forget about certain things.
 
 So yes, the `gggrv` or `Aggressive and Gravely Dangerous (?)` should be interpreted as me ironically pointing out my own lack of any actual survival skills (in the most literal sense). If only the ability to write things with keyboard did exempt one from natural selection...

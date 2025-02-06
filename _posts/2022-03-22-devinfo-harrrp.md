@@ -6,7 +6,7 @@ categories: [something]
 tags: [music, tabs, python, midi]
 ---
 
-Machine-readable harmonica tabs + tools
+Human and machine-readable harmonica tabs + tools.
 
 <!--more-->
 
@@ -16,7 +16,7 @@ A collection of various harmonica tabs in `.yaml` format along with unique tools
 
 ### Benefits
 
-- It is easy to convert `.yaml` tabs to any other format/notation.
+- It is easy to convert individual notes to any other format/notation.
 - It is possible to programmatically shift all notes several keys up/down.
 - It is possible to programmatically estimate song difficulty, note range and any other custom parameters.
 - It is still human readable and portable enough.

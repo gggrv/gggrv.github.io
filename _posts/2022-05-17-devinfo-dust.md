@@ -6,22 +6,22 @@ categories: [something]
 tags: [python, qt]
 ---
 
-Use mouse gestures to run code
+Use mouse gestures to run code.
 
 <!--more-->
 
 ### About
 
-Floating pixel that can accept mouse gestures
+Floating pixel that can accept mouse gestures.
 
 ### Benefits
 
 - It looks cute.
 - It may help with productivity.
 - It follows the mouse cursor.
-- Its actions can be customized.
-- Its movement trajectory/logic can be customized.
-- Its appearance can be customized.
+- Its actions can be customized (by editing the source code).
+- Its movement trajectory/logic can be customized (by editing the source code).
+- Its appearance can be customized (by editing the source code).
 
 ### Comparison Table
 

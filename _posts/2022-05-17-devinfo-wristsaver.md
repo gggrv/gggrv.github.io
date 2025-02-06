@@ -6,7 +6,7 @@ categories: [something]
 tags: [handwriting, machine learning, python, qt, cv2]
 ---
 
-Generate handwritten text
+Generate handwritten text.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ This is a logical clone of the `UTAU` program — any labeling techniques (for e
 | --- | --- | --- |
 | Exists? | ✔️ Development completed in 2020 | ❄️ Development paused |
 | Usable? | ✔️ | ❌ |
-| Documentation, screenshots, video demos? | ✔️ | ❌ |
+| Documentation, screenshots, video demos? | ✔️ Documentation<br>✔️ Screenshots<br>✔️ Animated `gif` demo | ❌ |
 | GitHub repository | [Click to open](https://github.com/gggrv/edu_archive_wristsaver_v5.5) | [Click to open](https://github.com/gggrv/wristsaver_append) |
 | Has GUI? | Only for metadata editor, haphazard | Full |
 | What documents can it print? | Simple `html`+`css` | 🤔 |
@@ -38,7 +38,7 @@ This is a logical clone of the `UTAU` program — any labeling techniques (for e
 
 ### Rationale
 
-In honor of ancient traditions, certain ██████████████ require ██ to produce large amount of handwritten text in abysmally short timespan. Doing so often leads to ██████████, ███████, wrist injuries, damp morale, poor performance. Initially, wristsaver was designed to help alleviate such conditions. The `append` version is a facultative research interest.
+In honor of ancient traditions, certain ██████████████ require ██ to produce large amount of handwritten text in abysmally short timespan. Doing so often leads to ██████████, ███████, wrist injuries, damp morale, poor performance. Initially, wristsaver was designed to help alleviate such conditions. The `append` version is a low-priority research interest, since it has no practical value outside of very specific environment.
 
 ### Development Status of the `append` version
 

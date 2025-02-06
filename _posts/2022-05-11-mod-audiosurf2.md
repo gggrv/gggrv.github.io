@@ -6,7 +6,7 @@ categories: game
 tags: [audiosurf2,lua,aftercourse]
 ---
 
-Take normal gameplay and completely break it
+Take normal gameplay and completely break it.
 
 <!--more-->
 
