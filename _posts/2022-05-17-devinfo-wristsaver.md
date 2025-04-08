@@ -28,7 +28,7 @@ This is a logical clone of the `UTAU` program — any labeling techniques (for e
 
 | Q | Wristsaver v5.5 | Wristsaver Append |
 | --- | --- | --- |
-| Exists? | ✔️ Development completed in 2020 | ❄️ Development paused |
+| Exists? | ✔️ Development completed in 2020 | ❄️ Development frozen |
 | Usable? | ✔️ | ❌ |
 | Documentation, screenshots, video demos? | ✔️ Documentation<br>✔️ Screenshots<br>✔️ Animated `gif` demo | ❌ |
 | GitHub repository | [Click to open](https://github.com/gggrv/edu_archive_wristsaver_v5.5) | [Click to open](https://github.com/gggrv/wristsaver_append) |

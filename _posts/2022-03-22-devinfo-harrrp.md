@@ -12,22 +12,30 @@ Human and machine-readable harmonica tabs + tools.
 
 ### About
 
-A collection of various harmonica tabs in `.yaml` format along with unique tools for them.
+"Harmonica" is a small and very loud musical instrument.
+
+"Harmonica tab" is a very simplified type of sheet music.
+
+There is no strict standard for harmonica tabs.
+
+Using `.yaml` to write harmonica tabs allows to avoid quite a lot of headaches.
 
 ### Benefits
 
-- It is easy to convert individual notes to any other format/notation.
+- It is easy to convert `.yaml` harmonica tab into beautiful pdf/image/any other document with any desired note labels, typesetting.
+- It is easy to distinguish between playable notes, lyrics, metadata.
 - It is possible to programmatically shift all notes several keys up/down.
-- It is possible to programmatically estimate song difficulty, note range and any other custom parameters.
+- It is possible to programmatically transpose the melody to fit any other harmonica.
+- It is possible to programmatically estimate song difficulty and any other custom parameters.
 - It is still human readable and portable enough.
 
-### Parts
+### Project Parts
 
 | Item | Link |
 | --- | --- |
-| Tools | ✔️[GitHub repository](https://github.com/gggrv/harrrp_tab_tools) (click to open) |
-| Raw playable tabs | ✔️[GitHub repository](https://github.com/gggrv/harrrp_tabs) (click to open) |
-| Prototype renderer | 🚧[GitHub repository](https://github.com/gggrv/harrrp_webapp_build) (click to open) |
+| Tools for programmatic processing | ✔️[GitHub repository](https://github.com/gggrv/harrrp_tab_tools) (click to open) |
+| Actual playable tabs | ✔️[GitHub repository](https://github.com/gggrv/harrrp_tabs) (click to open) |
+| Prototype renderer | 🚧[GitHub repository](https://github.com/gggrv/harrrp_webapp_build) (click to open, empty at this moment) |
 
 ### Rationale
 
