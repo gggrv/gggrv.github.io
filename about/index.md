@@ -23,11 +23,11 @@ If you are interested in my other **public** works, made for specific establishm
 
 ## CV
 
-For inquiry, please send an email to the following address: zinc a@t keemail d.o.t me.
+For inquiry, please send an email to the following address: zinc d.o.t keemail a@t me.
 
 ## About the Username
 
-*Please note, that in non-work-related activities for privacy reasons I follow the policy of "one improvised straightforward disposable and ideally non-unique username per platform/service". This way I guarantee at least my own compliance with generally recommended Internet etiquette and end up with lots of curious anecdotes to tell, like the one below.*
+*Please note, that in non-work-related activities for privacy reasons I follow the policy of "one improvised straightforward and ideally non-unique username per platform/service". This way I guarantee at least my own compliance with generally recommended Internet etiquette and end up with lots of curious anecdotes to tell, like the one below.*
 
 When it was time to come up with the GitHub username, I accidentally stumbled across this documentary and found the (obviously clickbait) combination of the thumbnail and description to be uncharacteristically funny:
 

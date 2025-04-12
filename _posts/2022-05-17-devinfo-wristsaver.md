@@ -12,17 +12,17 @@ Generate handwritten text.
 
 ### About
 
-`UTAU`, but for handwriting.
+`UTAU`, but for handwriting ("concatenative voice/handwriting synthesis" from any user-defined audio/image files).
 
 ### Benefits
 
-- Create custom handwritten type and print documents with it.
+- Create custom <ruby>type<rt>font</rt></ruby> from any handwriting and print documents with it.
 - Apply custom hand wavering, misalign straight lines of text for more natural feel.
-- Define derivative types for **bold**, *italic* and other styles.
-- Define entire typesets for easy switching and document formatting.
+- Define derivative <ruby>types<rt>fonts</rt></ruby> for **bold**, *italic* and other styles.
+- Define entire typesets for easy font switching via manuscript formatting commands.
 - Easily label handwriting data, train machine learning algorithms on this labeled data.
 
-This is a logical clone of the `UTAU` program — any labeling techniques (for example `CV`, `VCV`, `CVC`, `bre`) are possible to implement. Translated to handwriting, that could be `single letter`, `some syllable`, `whole word`, `whole phrase`, `ligature`.
+At this moment the existing, tangible and usable version of this project is a logical clone of the [UTAU](https://en.wikipedia.org/wiki/Utau) program — meaning, any labeling techniques (for example `CV`, `VCV`, `CVC`, `bre`) are possible to implement. Translated to handwriting, that could be `single letter`, `some syllable`, `whole word`, `whole phrase`, `ligature`.
 
 ### Comparison Table
 
@@ -31,8 +31,8 @@ This is a logical clone of the `UTAU` program — any labeling techniques (for e
 | Exists? | ✔️ Development completed in 2020 | ❄️ Development frozen |
 | Usable? | ✔️ | ❌ |
 | Documentation, screenshots, video demos? | ✔️ Documentation<br>✔️ Screenshots<br>✔️ Animated `gif` demo | ❌ |
-| GitHub repository | [Click to open](https://github.com/gggrv/edu_archive_wristsaver_v5.5) | [Click to open](https://github.com/gggrv/wristsaver_append) |
-| Has GUI? | Only for metadata editor, haphazard | Full |
+| Available? | ✔️ [GitHub repository](https://github.com/gggrv/edu_archive_wristsaver_v5.5) (click to open) | ❌ |
+| Has GUI? | ➕ Only for metadata editor, haphazard. | ✔️ Intended to be GUI-centric application.<br>❌ [Discarded experimental prototype exists](https://github.com/gggrv/wristsaver_append) (click to open). |
 | What documents can it print? | Simple `html`+`css` | 🤔 |
 | What labeling techniques are supported? | ✔️ Standalone `single letter`<br>✔️ `single letter` that comes only after specific `previous letters`<br>✔️ `single letter` that has visible connector to any `previous`/`next`/`both` letter | Mix-match of text `tokens` |
 

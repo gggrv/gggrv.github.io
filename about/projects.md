@@ -12,7 +12,7 @@ On this page you can see the detailed list of my publicly available projects. Th
 | Umbrella<br>Project Names | Purpose | Clickable Links/Images |
 | --- | --- | --- |
 | `github_portfolio` | ■ Pet-project portfolio | <a href="https://github.com/gggrv">🏠 This GitHub account</a> |
-| `tipjar` | ■ Tip jar | <a href="https://buymeacoffee.com/aggressive_developer" alt="Buy me a coffee">![image](/assets/images/bmc-brand-logo.svg)</a> |
+| `tipjar` | ■ Tip jar | <a href="https://buymeacoffee.com/aggressive_developer" target="_blank" alt="Buy me a coffee">![image](/assets/images/bmc-brand-logo.svg)</a> |
 
 ## Actively Maintained
 
@@ -46,4 +46,4 @@ On this page you can see the detailed list of my publicly available projects. Th
 
 | Umbrella<br>Project Names | Purpose | Name | Clickable Links | Versions |
 | --- | --- | --- | --- | --- |
-| `wristsaver` | ■ Utility*<br><sub>* Questionable</sub> | Major overhaul of the app that prints large documents in user-defined handwriting.<br><sub>Open source by design because `python`.</sub> | 🏠 [Project homepage](https://gggrv.github.io/something/2022/05/17/devinfo-wristsaver/)<br>📝 [GitHub repository](https://github.com/gggrv/wristsaver_append) | 🎁 Gratis<br>💵 For-profit |
+| `wristsaver` | ■ Utility*<br><sub>* Questionable</sub> | Major overhaul of the app that prints large documents in user-defined handwriting.<br><sub>Open source by design because `python`.</sub> | 🏠 [Project homepage](https://gggrv.github.io/something/2022/05/17/devinfo-wristsaver/) | 🎁 Gratis<br>💵 For-profit |
