@@ -5,7 +5,7 @@ type: about
 
 # Public Project Index
 
-On this page you can see the detailed list of my publicly available projects. This way once a private project gets published somewhere, you will never miss it.
+On this page a detailed list of my publicly available pet-projects is available.
 
 ## Social
 
@@ -26,7 +26,7 @@ On this page you can see the detailed list of my publicly available projects. Th
 | Umbrella<br>Project Names | Purpose | Name | Clickable Links | Versions |
 | --- | ---  | --- | --- | --- |
 | `wristsaver` | ■ Neccessity | Base app that prints large documents in user-defined handwriting.<br><sub>Open source by design because `python`.</sub><br><sub>✔️ August 2025 — Healthy.</sub><br><sub>✔️ December 2024 — Healthy, needs installation/IDE tutorial upgrade.</sub><br><sub>✔️ May 2024 — Documentation can be improved.</sub> | 🏠 [Project homepage](https://gggrv.github.io/something/2022/05/17/devinfo-wristsaver/)<br>📝 [GitHub repository](https://github.com/gggrv/edu_archive_wristsaver_v5.5) | 🎁 Gratis |
-| `grimoire`<br>`dust`| ■ Utility<br>■ Entertainment | Prototype app for metadata management + experimental unkillable wrapper app for mouse gestures.<br><sub>Open source by design because `python`.</sub><br><sub>✔️ August 2025 — Healthy.</sub><br><sub>✔️ December 2024 — Healthy, needs installation/IDE tutorial upgrade.</sub><br><sub>❓ May 2024 — Needs proper documentation.</sub> | 🏠 [Project homepage for `grimoire`](https://gggrv.github.io/something/2024/12/09/devinfo-grimoire/)<br>🏠 [Project homepage for `dust`](https://gggrv.github.io/something/2022/05/17/devinfo-dust/)<br>📝 [GitHub repository](https://github.com/gggrv/edu_archive_dust_v5) | 🎁 Gratis |
+| `grimoire`<br>`dust`| ■ Utility<br>■ Entertainment | Prototype app for metadata management + experimental unkillable wrapper app for mouse gestures.<br><sub>Open source by design because `pyqt`.</sub><br><sub>✔️ August 2025 — Healthy.</sub><br><sub>✔️ December 2024 — Healthy, needs installation/IDE tutorial upgrade.</sub><br><sub>❓ May 2024 — Needs proper documentation.</sub> | 🏠 [Project homepage for `grimoire`](https://gggrv.github.io/something/2024/12/09/devinfo-grimoire/)<br>🏠 [Project homepage for `dust`](https://gggrv.github.io/something/2022/05/17/devinfo-dust/)<br>📝 [GitHub repository](https://github.com/gggrv/edu_archive_dust_v5) | 🎁 Gratis |
 
 ## Postponed or Stuck in Development Hell
 
@@ -42,7 +42,7 @@ On this page you can see the detailed list of my publicly available projects. Th
 | `aftercourse` | ■ Neccessity | Quick haphazard cheatsheets/experiments that go nowhere on their own.<br><sub>Open source by design.</sub> | 📝 [GitHub repository](https://github.com/gggrv/edu_archive_aftercourse)<br>📝 [GitHub Pages](https://gggrv.github.io/tag/#/aftercourse) | 🎁 Gratis |
 | `multilingolayouts` | ■ Utility | Base layouts for [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en-US).<br><sub>Open source by design because `json`.</sub> | 📝 [GitHub Gist](https://gist.github.com/gggrv/5623b95143cbf1f615828840c5c33998) | 🎁 Gratis |
 
-## Canceled
+## Frozen
 
 | Umbrella<br>Project Names | Purpose | Name | Clickable Links | Versions |
 | --- | --- | --- | --- | --- |
